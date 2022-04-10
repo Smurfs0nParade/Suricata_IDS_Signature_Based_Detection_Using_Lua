@@ -1,2 +1,2 @@
 # SignatureBasedDetection
-Suricata signature based detection with Lua scripting
+Suricata signature based detection with Lua scripting to measure DNS entropy
